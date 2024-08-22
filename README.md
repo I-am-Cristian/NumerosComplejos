@@ -20,14 +20,24 @@ Conversión de polar a cartesiano
 Fase
 
 # Funciones y su retorno
+
 suma(a, b): Retorna la suma de dos numeros complejos.
+
 resta(a, b): Retorna la resta de dos numeros complejos.
+
 division(a, b): Retorna la division de dos numeros complejos.
+
 multiplicacion(a, b): Retorna la multiplicación de dos numeros complejos.
+
 modulo(a): Calcula el modulo de un numero complejo.
+
 conjugado(a): Retorna el conjugado de un numero complejo.
+
 cartesian_a_polar(a): Convierte un numero complejo de su forma cartesiana a su forma polar.
+
 polar_a_cartesian(r, theta): Convierte un numero complejo de su forma polar a su forma cartesiana.
+
 fase(a): Calcula la fase (ángulo) de un numero complejo.
+
 prettyprint(a): Imprime un numero complejo en formato legible.
 
